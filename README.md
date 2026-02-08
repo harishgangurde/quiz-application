@@ -1,3 +1,57 @@
-# quiz_app
+# Quiz App
 
-A new Flutter project.
+A simple and interactive quiz application built with Flutter.
+
+## Features
+
+- Multiple choice questions
+- Score tracking
+- Clean and intuitive UI
+- Instant feedback on answers
+
+## Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Dart SDK
+- Android Studio / VS Code with Flutter extensions
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone <your-repo-url>
+```
+
+2. Navigate to project directory
+```bash
+cd quiz_app
+```
+
+3. Install dependencies
+```bash
+flutter pub get
+```
+
+4. Run the app
+```bash
+flutter run
+```
+
+## Built With
+
+- Flutter - UI framework
+- Dart - Programming language
+
+## Screenshots
+
+_Add screenshots of your app here_
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## Author
+
+_Your Name_
