@@ -44,14 +44,10 @@ flutter run
 - Flutter - UI framework
 - Dart - Programming language
 
-## Screenshots
-
-_Add screenshots of your app here_
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-_Your Name_
+Harish Gangurde
