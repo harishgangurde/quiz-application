@@ -7,7 +7,7 @@ A simple and interactive quiz application built with Flutter.
 - Multiple choice questions
 - Score tracking
 - Clean and intuitive UI
-- Instant feedback on answers
+- Instant feedback on answers with total score
 
 ## Getting Started
 
